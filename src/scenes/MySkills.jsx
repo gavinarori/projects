@@ -36,12 +36,11 @@ operation of various machinery to lower inefficiencies
               className="relative z-0 ml-20 before:absolute before:-top-10 before:-left-10
               before:w-full before:h-full before:border-2 before:border-blue before:z-[-1]"
             >
-                        <img
-  alt="profile"
-  className="z-10"
-  src={require('../assets/WhatsApp Image 2023-10-12 at 1.37.52 PM.jpeg')}
-  height={200}
-/>
+              <img
+                alt="skills"
+                className="z-10"
+                src="assets/skills-image.png"
+              />
             </div>
           ) : (
             <img alt="skills" className="z-10" src="assets/skills-image.png" />
