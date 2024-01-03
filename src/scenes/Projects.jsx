@@ -28,7 +28,7 @@ const Project = ({ title }) => {
         Create a sustainable and energy-efficient home design, incorporating features like passive solar heating, natural ventilation, and renewable energy sources to minimize energy consumption.
         </p>
       </div>
-      <img src='https://kcnit.ac.in/wp-content/uploads/2021/06/Mechanical-EngineeringME.jpg'alt={projectTitle} />
+      <img src='https://www.constructionweekonline.com/cloud/2021/07/07/mechatronics-2-1.jpg'alt={projectTitle} />
     </motion.div>
   );
 };
@@ -78,6 +78,7 @@ const Projects = () => {
           <Project title="OMOINJINI" />
           </a>
           <a href="https://drive.google.com/file/d/14JS1k0DIVywk_0Wq8P4hIU8CvdtfFa2w/view?usp=drive_link"><Project title="Wasifu" /></a>
+          <a href="https://drive.google.com/file/d/1LyhMigjiFf_peQ9ERE_5Ou9SCuAZY2tf/view?usp=drivesdk"><Project title="African presentation, Autobiography presentation and others" /></a>
         </motion.div>
       </div>
     </section>
